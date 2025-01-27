@@ -5,7 +5,6 @@ import torch
 import torchvision.transforms as transforms
 from PIL import Image
 import io
-
 # Initialize FastAPI app
 app = FastAPI()
 
